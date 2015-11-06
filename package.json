@@ -1,0 +1,15 @@
+{
+  "name": "linked-list-javascript",
+  "version": "0.0.1",
+  "description": "Linked list implemented using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Gesualdo",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "chai": "^3.4.0"
+  }
+}
