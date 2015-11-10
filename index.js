@@ -13,6 +13,7 @@ function insertAfter(node, newNode){
 function removeLast(node){
 }
 
+// remove from front of list
 function removeFirst(list){
 }
 
